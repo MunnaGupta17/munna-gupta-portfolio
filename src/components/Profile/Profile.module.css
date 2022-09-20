@@ -1,0 +1,214 @@
+.container {
+    width: 100%;
+    position: relative;
+}
+
+.aboutContainer {
+    background: rgb(0, 0, 0, 0.8);
+    min-height: 100vh;
+}
+
+.flex {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.leftSection {
+    width: 55%;
+    color: #fff;
+}
+
+.leftSection > h1 {
+    font-size: 2.5rem;   
+    margin-bottom: 5px; 
+}
+
+.leftSection > h1 > span {
+    color: #3bffe2;
+}
+
+.leftSection > h3 {
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+
+.leftSection > p {
+    font-size: 1.2rem;
+    line-height: 1.4;
+}
+
+
+.rightSection {
+    width: 45%;
+    text-align: right;
+}
+
+.rightSection > img {
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+}
+
+.resumeButton {
+    border: 2px solid #3bffe2;
+    color: #3bffe2;
+    background: inherit;
+    font: 16px/30px opensans-bold,sans-serif;
+    padding: 10px 50px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition-duration: 500ms;
+    box-shadow: inset 0 0 0 0 #3bffe2;
+    transition: ease-out 0.3s;
+    position: relative;
+    margin-top: 15px;
+}
+
+.resumeButton:hover {
+    box-shadow: inset 200px 0 0 0 #3bffe2;
+    color: black;
+}
+
+
+.contactIcons {
+    display: flex;
+    padding: 10px 0px;
+    align-items: center;
+}
+
+.contactIcons > a > div {
+    width: 100px;
+}
+
+.contactIcons > a > div > i {
+    font-size: 30px;
+    color: rgba(255,255,255,0.5);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+.contactIcons > a > div > i:hover {
+    color: rgba(255,255,255,1);
+}
+
+.contactNum {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contactNum > div {
+    margin: 0px 20px 0px 0px;
+    display: flex;
+    align-items: center;
+}
+
+.contactNum i {
+    margin-right: 10px;
+}
+
+.container > div > p {
+    margin: 0px;
+}
+
+
+@media (max-width: 400px) {
+    .flex {
+        width: 90%;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        padding: 20px 0px;
+        justify-content: center;
+    }
+
+    .aboutContainer {
+        text-align: center;
+    }
+
+    .leftSection {
+        width: 100%;
+    }
+
+    .leftSection > h3 {
+        font-size: 1.3rem;
+    }
+
+    .leftSection > p {
+        font-size: 1rem;
+    }
+
+    .rightSection {
+        width: 100%;
+        text-align: center;
+    }
+
+    .rightSection > img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .contactNum, .contactIcons {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contactIcons > a > div > i {
+        color: #fff;
+    }
+}
+
+
+
+@media (max-width: 1440px) {
+    .flex {
+        width: 90%;
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+        padding: 20px 0px;
+        justify-content: center;
+    }
+
+    .aboutContainer {
+        text-align: center;
+    }
+
+    .leftSection {
+        width: 100%;
+    }
+
+    .leftSection > h3 {
+        font-size: 1.3rem;
+    }
+
+    .leftSection > p {
+        font-size: 1rem;
+    }
+
+    .rightSection {
+        width: 100%;
+        text-align: center;
+    }
+
+    .rightSection > img {
+        width: 200px;
+        height: 200px;
+        margin-top: 50px;
+    }
+
+    .contactNum, .contactIcons {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .contactIcons > a > div > i {
+        color: #fff;
+    }
+}

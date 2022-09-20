@@ -1,0 +1,124 @@
+.container {
+    background: rgba(0, 0, 0, 0.8);
+    width: 100%;
+    height: fit-content;
+    backdrop-filter: saturate(180%) blur(20px);
+    position: fixed;
+    z-index: 5;
+}
+
+.navBar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: auto;
+}
+
+.navBar ul {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 0;
+}
+
+.navBar > ul:nth-child(1) {
+    width: 40%;
+}
+
+.navBar > ul:nth-child(2) {
+    width: 50%;
+}
+
+.navBar > ul:nth-child(3) {
+    color: #fff;
+    flex-direction: row-reverse;
+    display: none;
+}
+
+.navBar ul li {
+    list-style: none;
+    margin: 0px 10px;
+    color: #f5f5f7;
+    cursor: pointer;
+}
+
+.navBar ul li:hover, .navBar a:hover {
+    color: #3bffe2;
+}
+
+.navBar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown {
+    color: #fff;
+    min-height: 100vh;
+    width: 80%;
+    margin: 0 auto;
+    animation: dropdownMenu 0.75s ease;
+}
+
+@keyframes dropdownMenu {
+    0% {
+        opacity: 0;
+        transform: translateX(-100px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0px);
+    }
+}
+
+.dropdown ul {
+    padding: 0;
+}
+
+.dropdown ul li {
+    list-style-type: none;
+    font-size: 17px;
+    line-height: 1.23536;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+    padding-left: 5px;
+}
+
+.dropdown ul li a {
+    text-decoration: none;
+    color: #fff;
+    width: 100%;
+}
+
+/* ------------- Responsiveness -------------- */
+@media (max-width: 900px) {
+    .navBar {
+        width: 90%;
+    }
+    
+    .navBar > ul:nth-child(2) {
+        display: none !important;
+    }
+
+    .navBar > ul:nth-child(3) {
+        display: flex !important;
+    }
+}
+
+@media (max-width: 1440px) {
+    .navBar {
+        width: 80%;
+    }
+
+    .navBar > ul:nth-child(2) {
+        width: 65%;
+    }
+
+    .navBar > ul:nth-child(1) {
+        width: 30%;
+    }
+}

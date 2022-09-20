@@ -1,0 +1,102 @@
+.container {
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+    text-align: center;
+    position: relative;
+    padding: 10px;
+}
+
+.flex {
+    display: flex;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.flex > a > div {
+    width: 100px;
+    text-align: center;
+}
+
+.flex > a > div > i {
+    font-size: 30px;
+    color: rgba(255,255,255,0.5);
+    transition-duration: 0.5s;
+    cursor: pointer;
+}
+
+.flex > a > div > i:hover {
+    color: rgba(255,255,255,1);
+}
+
+.gotoTopBtn {
+    width: 50px;
+    height: 50px;
+    background-color: #525252;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -25px;
+    left: calc(50% - 25px);
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.gotoTopBtn > i {
+    font-size: 30px;
+}
+
+.gotoTopBtn:hover {
+    background-color: #11abb0;
+}
+
+.contactNum, .container > div > p {
+    text-align: right;
+    padding: 10px 20px;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contactNum > div {
+    margin: 0px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.contactNum i {
+    margin-right: 10px;
+}
+
+.container > div > p {
+    margin: 0px;
+}
+
+
+@media (max-width: 400px) {
+    .container {
+        padding: 0;
+    }
+
+    .container > div > p {
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        padding: 0;
+    }
+
+    .container > div > p {
+        text-align: center;
+        padding: 10px;
+    }
+}
