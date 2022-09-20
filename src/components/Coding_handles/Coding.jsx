@@ -14,7 +14,7 @@ export function CodingProfiles() {
                     <div>HACKERRANK</div>
                 </div>
                 <div>
-                    <a href="https://leetcode.com/Munna_Dark_Horse/" rel="noreferrer" target="_blank"><img src={leetcodeLogo} alt="" /></a>
+                    <a href="https://leetcode.com/Munna_Gupta/" rel="noreferrer" target="_blank"><img src={leetcodeLogo} alt="" /></a>
                     <br />
                     <div>LEETCODE</div>
                 </div>
