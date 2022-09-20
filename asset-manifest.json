@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.1258bbb0.chunk.css",
+    "main.js": "/portfolio/static/js/main.05787e1b.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.05787e1b.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c4a4bfd1.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c4a4bfd1.js.map",
+    "static/js/2.c2f55769.chunk.js": "/portfolio/static/js/2.c2f55769.chunk.js",
+    "static/js/2.c2f55769.chunk.js.map": "/portfolio/static/js/2.c2f55769.chunk.js.map",
+    "static/js/3.91936d4f.chunk.js": "/portfolio/static/js/3.91936d4f.chunk.js",
+    "static/js/3.91936d4f.chunk.js.map": "/portfolio/static/js/3.91936d4f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.1258bbb0.chunk.css.map": "/portfolio/static/css/main.1258bbb0.chunk.css.map",
+    "static/js/2.c2f55769.chunk.js.LICENSE.txt": "/portfolio/static/js/2.c2f55769.chunk.js.LICENSE.txt",
+    "static/media/Cultfit_homepage.36320c2c.png": "/portfolio/static/media/Cultfit_homepage.36320c2c.png",
+    "static/media/Sephora_home_page.fb073058.png": "/portfolio/static/media/Sephora_home_page.fb073058.png",
+    "static/media/hackerrank_logo.057c3426.svg": "/portfolio/static/media/hackerrank_logo.057c3426.svg",
+    "static/media/profilePic.b6a999fa.jpg": "/portfolio/static/media/profilePic.b6a999fa.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4a4bfd1.js",
+    "static/js/2.c2f55769.chunk.js",
+    "static/css/main.1258bbb0.chunk.css",
+    "static/js/main.05787e1b.chunk.js"
+  ]
+}
