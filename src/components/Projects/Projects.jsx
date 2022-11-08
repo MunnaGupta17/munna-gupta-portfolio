@@ -1,6 +1,7 @@
 import styles from './Projects.module.css';
 import cultfit_homePage from '../../images/Cultfit_homepage.png';
 import Sephora_home_page from '../../images/Sephora_home_page.png';
+import Bus_home_page from '../../images/busReservationApplication.jpg'
 
 
 export function Projects() {
@@ -54,6 +55,31 @@ export function Projects() {
                 </div>
 
             </div>
+
+            <div>
+                <div className={styles.projectBox}>
+                    <div className={styles.projectImg}>
+                        <img src={Bus_home_page} alt="" />
+                    </div>
+                    <div className={styles.projectDescription}>
+                        <h2>Bus Ticket Reservation System</h2>
+                        <p>This is console based java application where users can book and cancel ticket and admin can login. This Project was
+                            individually built by me and completed in 4 days.</p>
+                        <div className={styles.projectLinksDiv}>
+                            <div className={styles.projectLinks}>
+                                <button onClick={() => { window.open("https://drive.google.com/file/d/1PcrMcELaOYK10vGoVAYxHBz8UiN8a06j/view?usp=sharing") }}>View Video</button>
+                                <button onClick={() => { window.open("https://github.com/MunnaGupta17/MunnaGupta17-Bus_Ticket_Reservation_System_JAVA_Application") }}><span><i className="devicon-github-original technology"></i></span> View Source</button>
+                            </div>
+                            <div className={styles.techStacks}>
+                                <div><i className="devicon-mysql-plain-wordmark colored"></i></div>
+                                <div><i className="devicon-java-plain-wordmark colored"></i></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
         </div>
     );
 }

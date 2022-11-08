@@ -55,7 +55,7 @@ export function Navbar() {
                         duration={500}
                     >Projects</Link></li>
                     <li><a
-                        href="https://drive.google.com/file/d/1j0sSFuAL1Lj0Pat3pG1o2bYBPQ0N-WIl/view?usp=sharing"
+                        href="https://drive.google.com/file/d/1wKYCmsQ1gwGx8RqLwIS4zGJCQa2iNwbD/view?usp=sharing"
                         target="_blank"
                         rel="noreferrer"
                     >Resume</a></li>

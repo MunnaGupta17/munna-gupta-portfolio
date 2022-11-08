@@ -1,5 +1,5 @@
 import styles from './Profile.module.css';
-import profilePic from '../../images/profilePic.jpg';
+import profilePic from '../../images/profilePic2.jpeg';
 
 export const Profile = () => {
     const handleResumeClick = () => {
@@ -18,7 +18,7 @@ export const Profile = () => {
                         <div className={styles.contactIcons}>
                             <a href="https://www.linkedin.com/in/munnagupta2002/" rel="noreferrer" target="_blank"><div><i className="fab fa-linkedin-in"></i></div></a>
                             <a href="https://github.com/MunnaGupta17" rel="noreferrer" target="_blank"><div><i className="fab fa-github"></i></div></a>
-                            <a href="mailto:gupta.chandan1499@gmail.com"><div><i className="fas fa-envelope"></i></div></a>
+                            <a href="mailto:munna.gupta2702@gmail.com"><div><i className="fas fa-envelope"></i></div></a>
                         </div>
                         <div className={styles.contactNum}>
                             <div>
