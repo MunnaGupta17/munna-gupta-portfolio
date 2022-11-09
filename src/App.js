@@ -7,6 +7,7 @@ import { Footer } from './components/Footer/Footer';
 import { CodingProfiles } from './components/Coding_handles/Coding';
 import { useEffect, useState } from 'react';
 import { Loading } from './components/Loader/spinner';
+import { GithubStats } from './components/GithubCalendar/GithubStats';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
       <Skills />
       <CodingProfiles />
       <Projects />
+      <GithubStats/>
       <Footer />
     </div>
   );

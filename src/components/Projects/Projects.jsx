@@ -42,7 +42,7 @@ export function Projects() {
                         <p>This is clone of the Sephora website where users can buy Beauty and Make-Up cosmetics. With my Team of 5 Members we clone Sephora website and most of the functionality using HTML, CSS and Javascript and for saving user details we used localstorage.</p>
                         <div className={styles.projectLinksDiv}>
                             <div className={styles.projectLinks}>
-                                <button onClick={() => { window.open("https://stalwart-tarsier-33c6f5.netlify.app/index.html") }}>View Demo</button>
+                                <button onClick={() => { window.open("https://frabjous-buttercream-a19102.netlify.app") }}>View Demo</button>
                                 <button onClick={() => { window.open("https://github.com/Dikshant535/driven-blow-8617") }}><span><i className="devicon-github-original technology"></i></span> View Source</button>
                             </div>
                             <div className={styles.techStacks}>

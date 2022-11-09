@@ -1,0 +1,25 @@
+.container {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.GitHubCalendar {
+    width: 55%;
+    margin: 20px auto;
+}
+
+.githubStats {
+    display: flex;
+    justify-content: space-between;
+    width: 55%;
+    margin: auto;
+}
+
+.heading {
+    text-align: center;
+    color: #444649;
+    font-family: cursive;
+    animation: slideInLeft 0.75s ease both;
+    font-size: 3rem;
+  }
