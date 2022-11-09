@@ -1,27 +1,20 @@
 {
   "files": {
-    "main.css": "/munna-gupta-portfolio/static/css/main.5c006b7c.chunk.css",
-    "main.js": "/munna-gupta-portfolio/static/js/main.c829beac.chunk.js",
-    "main.js.map": "/munna-gupta-portfolio/static/js/main.c829beac.chunk.js.map",
-    "runtime-main.js": "/munna-gupta-portfolio/static/js/runtime-main.31f6fdb0.js",
-    "runtime-main.js.map": "/munna-gupta-portfolio/static/js/runtime-main.31f6fdb0.js.map",
-    "static/js/2.c2f55769.chunk.js": "/munna-gupta-portfolio/static/js/2.c2f55769.chunk.js",
-    "static/js/2.c2f55769.chunk.js.map": "/munna-gupta-portfolio/static/js/2.c2f55769.chunk.js.map",
-    "static/js/3.91936d4f.chunk.js": "/munna-gupta-portfolio/static/js/3.91936d4f.chunk.js",
-    "static/js/3.91936d4f.chunk.js.map": "/munna-gupta-portfolio/static/js/3.91936d4f.chunk.js.map",
+    "main.css": "/munna-gupta-portfolio/static/css/main.f2ed6705.css",
+    "main.js": "/munna-gupta-portfolio/static/js/main.088a7ee4.js",
+    "static/js/787.1ed0c42c.chunk.js": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/profilePic2.jpeg": "/munna-gupta-portfolio/static/media/profilePic2.b4df5610f5f57de1859e.jpeg",
+    "static/media/Sephora_home_page.png": "/munna-gupta-portfolio/static/media/Sephora_home_page.fb0730589546124088e6.png",
+    "static/media/Cultfit_homepage.png": "/munna-gupta-portfolio/static/media/Cultfit_homepage.36320c2c49fa891cad36.png",
+    "static/media/busReservationApplication.jpg": "/munna-gupta-portfolio/static/media/busReservationApplication.e0245c1f9a7ed31bb039.jpg",
     "index.html": "/munna-gupta-portfolio/index.html",
-    "static/css/main.5c006b7c.chunk.css.map": "/munna-gupta-portfolio/static/css/main.5c006b7c.chunk.css.map",
-    "static/js/2.c2f55769.chunk.js.LICENSE.txt": "/munna-gupta-portfolio/static/js/2.c2f55769.chunk.js.LICENSE.txt",
-    "static/media/Cultfit_homepage.36320c2c.png": "/munna-gupta-portfolio/static/media/Cultfit_homepage.36320c2c.png",
-    "static/media/Sephora_home_page.fb073058.png": "/munna-gupta-portfolio/static/media/Sephora_home_page.fb073058.png",
-    "static/media/busReservationApplication.e0245c1f.jpg": "/munna-gupta-portfolio/static/media/busReservationApplication.e0245c1f.jpg",
-    "static/media/hackerrank_logo.057c3426.svg": "/munna-gupta-portfolio/static/media/hackerrank_logo.057c3426.svg",
-    "static/media/profilePic2.b4df5610.jpeg": "/munna-gupta-portfolio/static/media/profilePic2.b4df5610.jpeg"
+    "static/media/hackerrank_logo.svg": "/munna-gupta-portfolio/static/media/hackerrank_logo.057c34267f40f07e49edf2ce9bbc0054.svg",
+    "main.f2ed6705.css.map": "/munna-gupta-portfolio/static/css/main.f2ed6705.css.map",
+    "main.088a7ee4.js.map": "/munna-gupta-portfolio/static/js/main.088a7ee4.js.map",
+    "787.1ed0c42c.chunk.js.map": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.31f6fdb0.js",
-    "static/js/2.c2f55769.chunk.js",
-    "static/css/main.5c006b7c.chunk.css",
-    "static/js/main.c829beac.chunk.js"
+    "static/css/main.f2ed6705.css",
+    "static/js/main.088a7ee4.js"
   ]
 }
