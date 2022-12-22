@@ -69,7 +69,12 @@
     font-family: opensans-bold,sans-serif;
     padding-bottom: 50px;
 }
-
+.descriptionStyles {
+     padding-bottom: 10px !important;
+}
+.digitech {
+    margin-bottom: 50px !important;
+}
 .techStacks {
     display: flex;
     flex-wrap: wrap;
