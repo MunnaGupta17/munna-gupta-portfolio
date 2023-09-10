@@ -76,7 +76,7 @@ export function Projects() {
               <div className={styles.projectLinks}>
                 <button
                   onClick={() => {
-                    window.open("https://github.com/MunnaGupta17/DIGI-POCKET");
+                    window.open("https://github.com/MunnaGupta17/WEDLOCK.COM");
                   }}
                 >
                   <span>
