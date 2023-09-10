@@ -47,12 +47,11 @@
 .rightSection {
     width: 45%;
     text-align: right;
+    margin-left: 60px;
 }
 
 .rightSection > img {
-    border-radius: 50%;
-    width: 330px;
-    height: 359px;
+    width: 100%;
 }
 
 .resumeButton {
