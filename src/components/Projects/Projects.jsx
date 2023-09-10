@@ -22,7 +22,7 @@ export function Projects() {
             <p className={styles.descriptionStyles}>
               Created a comprehensive replica of the Dropbox homepage using
               React.js, focusing on enhancing frontend skills and interactive
-              elements..
+              elements.
             </p>
             <p className={styles.digitech}>
               Tech Stack : React js | Javascript | HTML | CSS | React-router-dom
@@ -188,7 +188,7 @@ export function Projects() {
               built by me and completed in 4 days.
             </p>
             <p className={styles.digitech}>
-              Tech Stack : Java | Hibernate | SQL | MySQL | Maven 
+              Tech Stack : Java | Hibernate | SQL | MySQL | Maven
             </p>
 
             <div className={styles.projectLinksDiv}>
@@ -228,13 +228,11 @@ export function Projects() {
           <div className={styles.projectDescription}>
             <h2>Sephora</h2>
             <p>
-              This is clone of the Sephora website where users can buy Beauty
-              and Make-Up cosmetics. With my Team of 5 Members we clone Sephora
-              website and most of the functionality using HTML, CSS and
-              Javascript and for saving user details we used localstorage.
+              This project is a clone of Sephora's website, allowing users to
+              purchase beauty and makeup cosmetics.
             </p>
             <p className={styles.digitech}>
-              Tech Stack : Javascript | HTML | CSS 
+              Tech Stack : Javascript | HTML | CSS
             </p>
             <div className={styles.projectLinksDiv}>
               <div className={styles.projectLinks}>
@@ -272,15 +270,14 @@ export function Projects() {
           </div>
           <div className={styles.projectDescription}>
             <h2>Cultfit</h2>
-            <p>
-              This is clone of the Cultfit website where users can take Cultfit
-              gym membership pass and from the website itself users can buy
-              sportswear and can also order healthy foods. I myself clone
-              cultfit website and most of the functionality using HTML, CSS and
-              Javascript and for saving user details we used localstorage.
+            <p className={styles.projectDescriptionptag}>
+              This project is a clone of Cultfit, offering gym memberships,
+              sportswear, and healthy food orders directly on the website. It
+              was created using HTML, CSS, and Javascript, with user details
+              stored in local storage.
             </p>
             <p className={styles.digitech}>
-              Tech Stack : Javascript | HTML | CSS 
+              Tech Stack : Javascript | HTML | CSS
             </p>
             <div className={styles.projectLinksDiv}>
               <div className={styles.projectLinks}>
