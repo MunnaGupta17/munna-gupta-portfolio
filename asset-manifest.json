@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/munna-gupta-portfolio/static/css/main.ada54273.css",
-    "main.js": "/munna-gupta-portfolio/static/js/main.9cd1e664.js",
+    "main.js": "/munna-gupta-portfolio/static/js/main.d22313db.js",
     "static/js/787.1ed0c42c.chunk.js": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/task.jpg": "/munna-gupta-portfolio/static/media/task.9140bdbc1f5adb06330b.jpg",
     "static/media/Sephora_home_page.png": "/munna-gupta-portfolio/static/media/Sephora_home_page.fb0730589546124088e6.png",
@@ -14,11 +14,11 @@
     "index.html": "/munna-gupta-portfolio/index.html",
     "static/media/hackerrank_logo.svg": "/munna-gupta-portfolio/static/media/hackerrank_logo.057c34267f40f07e49edf2ce9bbc0054.svg",
     "main.ada54273.css.map": "/munna-gupta-portfolio/static/css/main.ada54273.css.map",
-    "main.9cd1e664.js.map": "/munna-gupta-portfolio/static/js/main.9cd1e664.js.map",
+    "main.d22313db.js.map": "/munna-gupta-portfolio/static/js/main.d22313db.js.map",
     "787.1ed0c42c.chunk.js.map": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ada54273.css",
-    "static/js/main.9cd1e664.js"
+    "static/js/main.d22313db.js"
   ]
 }
