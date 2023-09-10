@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/munna-gupta-portfolio/static/css/main.ada54273.css",
-    "main.js": "/munna-gupta-portfolio/static/js/main.d22313db.js",
+    "main.css": "/munna-gupta-portfolio/static/css/main.9c12a153.css",
+    "main.js": "/munna-gupta-portfolio/static/js/main.38369ba8.js",
     "static/js/787.1ed0c42c.chunk.js": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/task.jpg": "/munna-gupta-portfolio/static/media/task.9140bdbc1f5adb06330b.jpg",
     "static/media/Sephora_home_page.png": "/munna-gupta-portfolio/static/media/Sephora_home_page.fb0730589546124088e6.png",
     "static/media/Cultfit_homepage.png": "/munna-gupta-portfolio/static/media/Cultfit_homepage.36320c2c49fa891cad36.png",
     "static/media/dropbox.png": "/munna-gupta-portfolio/static/media/dropbox.a98a77d443583e714b62.png",
+    "static/media/matromonial.jpg": "/munna-gupta-portfolio/static/media/matromonial.40ee59a74d6312f66c70.jpg",
+    "static/media/task.jpg": "/munna-gupta-portfolio/static/media/task.51df3be7f74ab307460f.jpg",
     "static/media/busReservationApplication.jpg": "/munna-gupta-portfolio/static/media/busReservationApplication.e0245c1f9a7ed31bb039.jpg",
     "static/media/profilePic2.jpg": "/munna-gupta-portfolio/static/media/profilePic2.aac0eff8432d8fd705e5.jpg",
-    "static/media/matromonial.jpg": "/munna-gupta-portfolio/static/media/matromonial.5b7c1701789aba6ef2b5.jpg",
     "static/media/restApi.png": "/munna-gupta-portfolio/static/media/restApi.29f1e6079865479a6034.png",
     "index.html": "/munna-gupta-portfolio/index.html",
     "static/media/hackerrank_logo.svg": "/munna-gupta-portfolio/static/media/hackerrank_logo.057c34267f40f07e49edf2ce9bbc0054.svg",
-    "main.ada54273.css.map": "/munna-gupta-portfolio/static/css/main.ada54273.css.map",
-    "main.d22313db.js.map": "/munna-gupta-portfolio/static/js/main.d22313db.js.map",
+    "main.9c12a153.css.map": "/munna-gupta-portfolio/static/css/main.9c12a153.css.map",
+    "main.38369ba8.js.map": "/munna-gupta-portfolio/static/js/main.38369ba8.js.map",
     "787.1ed0c42c.chunk.js.map": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ada54273.css",
-    "static/js/main.d22313db.js"
+    "static/css/main.9c12a153.css",
+    "static/js/main.38369ba8.js"
   ]
 }
