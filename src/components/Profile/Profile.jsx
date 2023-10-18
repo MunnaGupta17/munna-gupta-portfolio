@@ -4,7 +4,7 @@ import profilePic from "../../images/profilePic2.jpg";
 export const Profile = () => {
   const handleResumeClick = () => {
     window.open(
-      "https://drive.google.com/file/d/1oSTiiqp6JpV1ioq0lyVMx0jH3b5vSndw/view?usp=sharing"
+      "https://drive.google.com/file/d/1KBEL1UriUFwWjbTvLmFdt9J_oE_Jv4ol/view?usp=sharing"
     );
   };
 
