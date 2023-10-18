@@ -4,6 +4,7 @@ import Sephora_home_page from "../../images/Sephora_home_page.png";
 import Bus_home_page from "../../images/busReservationApplication.jpg";
 import digi_pocket from "../../images/digi_pocket.png";
 import dropbox from "../../images/dropbox.png";
+import taskTracker from "../../images/TaskTracker.png";
 import task from "../../images/task.jpg";
 import matromonial from "../../images/matromonial.jpg";
 
@@ -11,6 +12,51 @@ export function Projects() {
   return (
     <div className={styles.container} id="#projects">
       <h1 className={styles.heading}>PROJECTS</h1>
+
+      <div>
+        <div className={styles.projectBox}>
+          <div className={styles.projectImg}>
+            <img src={taskTracker} alt="" />
+          </div>
+          <div className={styles.projectDescription}>
+            <h2>Task Tracker</h2>
+            <p className={styles.descriptionStyles}>
+              Created a web-based task tracking application with a REST API
+              backend to help users manage their tasks efficiently. The project
+              offers features such as task creation, deletion, and editing,
+              providing a seamless task management experience.
+            </p>
+            <p className={styles.digitech}>
+              Tech Stack : Java | Spring | MySQL | Maven | React js | Javascript | HTML | CSS 
+            </p>
+            <div className={styles.projectLinksDiv}>
+              <div className={styles.projectLinks}>
+                <button
+                  onClick={() => {
+                    window.open(
+                      "https://munnagupta17.github.io/Task-Tracker-Website/"
+                    );
+                  }}
+                >
+                  View Demo
+                </button>
+                <button
+                  onClick={() => {
+                    window.open(
+                      "https://github.com/MunnaGupta17/Task-Tracker-Website"
+                    );
+                  }}
+                >
+                  <span>
+                    <i className="devicon-github-original technology"></i>
+                  </span>{" "}
+                  View Source
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div>
         <div className={styles.projectBox}>
@@ -56,6 +102,7 @@ export function Projects() {
           </div>
         </div>
       </div>
+
       <div>
         <div className={styles.projectBox}>
           <div className={styles.projectImg}>
