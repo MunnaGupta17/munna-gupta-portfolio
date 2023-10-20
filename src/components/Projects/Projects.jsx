@@ -13,7 +13,7 @@ export function Projects() {
     <div className={styles.container} id="#projects">
       <h1 className={styles.heading}>PROJECTS</h1>
 
-      <div>
+      {/* <div>
         <div className={styles.projectBox}>
           <div className={styles.projectImg}>
             <img src={taskTracker} alt="" />
@@ -56,7 +56,7 @@ export function Projects() {
             </div>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div>
         <div className={styles.projectBox}>
