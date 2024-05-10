@@ -1,7 +1,6 @@
 import styles from './Coding.module.css';
 import hackerrankLogo from "../../images/hackerrank_logo.svg";
 import leetcodeLogo from "../../images/leetcode_logo.png";
-// import gfgLogo from "../../images/gfg_logo.svg";
 
 export function CodingProfiles() {
     return (
@@ -18,11 +17,7 @@ export function CodingProfiles() {
                     <br />
                     <div>LEETCODE</div>
                 </div>
-                {/* <div>
-                    <a href="" rel="noreferrer" target="_blank"><img src={gfgLogo} alt="" /></a>
-                    <br />
-                    <div>GEEKSFORGEEKS</div>
-                </div> */}
+                
             </div>
         </div>
     );

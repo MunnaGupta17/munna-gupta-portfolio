@@ -79,7 +79,7 @@ export function Projects() {
                 <button
                   onClick={() => {
                     window.open(
-                      "https://dropbox-homepage-bymunna.netlify.app/"
+                      "https://munnagupta17.github.io/ropbox_Homepage_Clone/"
                     );
                   }}
                 >
