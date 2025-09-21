@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/munna-gupta-portfolio/static/css/main.7da38f63.css",
-    "main.js": "/munna-gupta-portfolio/static/js/main.e37f0541.js",
+    "main.css": "/munna-gupta-portfolio/static/css/main.bb31d596.css",
+    "main.js": "/munna-gupta-portfolio/static/js/main.a5a22799.js",
     "static/js/787.1ed0c42c.chunk.js": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/Sephora_home_page.png": "/munna-gupta-portfolio/static/media/Sephora_home_page.fb0730589546124088e6.png",
     "static/media/Cultfit_homepage.png": "/munna-gupta-portfolio/static/media/Cultfit_homepage.36320c2c49fa891cad36.png",
@@ -14,12 +14,12 @@
     "static/media/restApi.png": "/munna-gupta-portfolio/static/media/restApi.29f1e6079865479a6034.png",
     "index.html": "/munna-gupta-portfolio/index.html",
     "static/media/hackerrank_logo.svg": "/munna-gupta-portfolio/static/media/hackerrank_logo.057c34267f40f07e49edf2ce9bbc0054.svg",
-    "main.7da38f63.css.map": "/munna-gupta-portfolio/static/css/main.7da38f63.css.map",
-    "main.e37f0541.js.map": "/munna-gupta-portfolio/static/js/main.e37f0541.js.map",
+    "main.bb31d596.css.map": "/munna-gupta-portfolio/static/css/main.bb31d596.css.map",
+    "main.a5a22799.js.map": "/munna-gupta-portfolio/static/js/main.a5a22799.js.map",
     "787.1ed0c42c.chunk.js.map": "/munna-gupta-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7da38f63.css",
-    "static/js/main.e37f0541.js"
+    "static/css/main.bb31d596.css",
+    "static/js/main.a5a22799.js"
   ]
 }
